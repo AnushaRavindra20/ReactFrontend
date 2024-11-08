@@ -1,0 +1,47 @@
+.loginsignup{
+    width: 100%;
+    height: 80vh;
+    background-color: #fce3fe;
+    padding-top: 50px;
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+.fields{
+    display: flex;
+    margin-top: 5px;
+    flex-direction: column;
+    gap: 29px;
+}
+.container h1{
+    margin: 10px 0px;
+}
+.fields input{
+    height: 70px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+}
+.container button{
+    width: 430px;
+    height: 70px;
+    background:white ;
+    border: none;
+    margin-top: 30px;
+    background: #ff4141;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.login span{
+    color: #ff4141;
+    font-weight: 600;
+}
+
